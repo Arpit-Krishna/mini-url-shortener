@@ -125,7 +125,7 @@ docker-compose up --build
 ```bash
 cd backend
 npm install
-npm run dev
+node server.js
 ```
 #### Frontend:
 ```bash
